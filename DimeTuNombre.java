@@ -26,8 +26,9 @@ public class DimeTuNombre {
 
         //A continuación, se incorporarán las partes de código de los integrantes.
         //↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓ EMPIEZE SU CÓDIGO AQUÍ ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+//Alejandro Tornero Martínez - Alumne de 1er de DAM
 
-        
+    System.out.println("Hola! Soc Alejandro Tornero Martínez, alumne de 1r de DAM i esta és la meua aportació al projecte");    
         
 
 
