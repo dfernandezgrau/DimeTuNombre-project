@@ -27,10 +27,43 @@ public class DimeTuNombre {
         //A continuación, se incorporarán las partes de código de los integrantes.
         //↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓ EMPIEZE SU CÓDIGO AQUÍ ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
 
+<<<<<<< HEAD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 //Angel Cabezuelo - Alumne de 1er de DAM
 System.out.println("Hola! Soc Angel Cabezuelo, alumne de 1r de DAM i esta és la meua aportació al projecte");
 
         
+=======
+
+
+
+	//[Nom i cognoms] - Alumne de 1er de DAM.
+        System.out.println("Hola! Soc Benja Esteve, alumne de 1r de DAM i esta és la meua aportació al projecte.");
+>>>>>>> b26aea9b361387405ed693f3961b0dda002cd9b6
 
 
 
@@ -38,7 +71,11 @@ System.out.println("Hola! Soc Angel Cabezuelo, alumne de 1r de DAM i esta és la
 
 
 
+=======
+	//Daniel García Poves - Alumne de 1er de DAM
+>>>>>>> 9fd3386312eff508f948879694652f4a3150150f
 
+	System.out.println("Hola! Soc Daniel García Poves, alumne de 1r de DAM i esta és la meua aportació al projecte");        
 
 
 //------------------------ NO PASAR ESTA LÍNEA ------------------------------------------------------------------
