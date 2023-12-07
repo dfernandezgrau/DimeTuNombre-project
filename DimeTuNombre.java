@@ -27,9 +27,9 @@ public class DimeTuNombre {
         //A continuación, se incorporarán las partes de código de los integrantes.
         //↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓ EMPIEZE SU CÓDIGO AQUÍ ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
 
-        
-        
-
+        //[SANTIAGO BERNAL GOMEZ]-ALUMNO DE 1.º de DAM.
+	System.out.println("Hola! Soy Santiago Bernal Gomez alumno de 1r de DAM y esta es mi aportacion al proyecto");        
+	
 
 
 
