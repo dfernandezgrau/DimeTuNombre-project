@@ -27,10 +27,24 @@ public class DimeTuNombre {
         //A continuación, se incorporarán las partes de código de los integrantes.
         //↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓ EMPIEZE SU CÓDIGO AQUÍ ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
 	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	//Marc Rovira Perelló - Alumne de 1er de DAM
         System.out.println("Hola! Soy Marc Rovira Perelló, alumno de 1º de DAM y esta es mi aportacion al proyecto.");        
         
-
 
 
 
