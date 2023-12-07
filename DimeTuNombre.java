@@ -27,7 +27,8 @@ public class DimeTuNombre {
         //A continuación, se incorporarán las partes de código de los integrantes.
         //↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓ EMPIEZE SU CÓDIGO AQUÍ ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
 
-        
+        //Vicent Martínez Yerves - Alumne de 1er de DAM
+        System.out.println("Hola! Soc Vicent Martínez Yerves, alumne de 1r de DAM i esta és la meua aportació al projecte.");
         
 
 
