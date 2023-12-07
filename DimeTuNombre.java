@@ -27,7 +27,8 @@ public class DimeTuNombre {
         //A continuación, se incorporarán las partes de código de los integrantes.
         //↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓ EMPIEZE SU CÓDIGO AQUÍ ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
 
-        
+	//Joan Bisbal Simón - Alumne de 1er de DAM
+	System.out.println("Hola! Soc Joan Bisbal Simón, alumne de 1r de DAM i esta és la meua aportació al projecte");        
         
 
 
