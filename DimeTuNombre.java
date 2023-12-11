@@ -159,28 +159,13 @@ System.out.println("Hola! Soc Angel Cabezuelo, alumne de 1r de DAM i esta és la
 
 
 
-
-
-
-
-
-
-
-
-
 	//Marc Rovira Perelló - Alumne de 1er de DAM
         System.out.println("Hola! Soy Marc Rovira Perelló, alumno de 1º de DAM y esta es mi aportacion al proyecto.");        
 
 
 
-
-
-
-        //Vicent Martínez Yerves - Alumne de 1er de DAM
+    //Vicent Martínez Yerves - Alumne de 1er de DAM
         System.out.println("Hola! Soc Vicent Martínez Yerves, alumne de 1r de DAM i esta és la meua aportació al projecte.");
-
-
-
 
 
         //[SANTIAGO BERNAL GOMEZ]-ALUMNO DE 1.º de DAM.
