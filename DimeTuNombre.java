@@ -29,6 +29,9 @@ public class DimeTuNombre {
 
 
 
+	//Aron Oliva - Alumno de 1er de DAM
+	System.out.println("Hola! Soc Aron Oliva, alumne de 1er de DM i esta és la meua aportació al projecte.");
+
 
 
 
