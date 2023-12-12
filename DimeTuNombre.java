@@ -40,8 +40,8 @@ public class DimeTuNombre {
 System.out.println("Hola! Soc Karen López, alumna de 1r de DAM i esta és la meua aportació al projecte.");
 
 
-
-
+//Enrique Folch - Alumne de 1er de DAM.
+System.out.println("Hola! Soc Enrique Folch, alumne de 1r de DAM i esta és la meua aportació al projecte.");
 
 
 
