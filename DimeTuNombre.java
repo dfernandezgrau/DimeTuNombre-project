@@ -80,7 +80,8 @@ System.out.println("Hola! Soc Angel Cabezuelo, alumne de 1r de DAM i esta és la
 
 
 
-
+//Natxo Galan Rovira - Alumne de 1er de DAM
+	System.out.println("Hola! Soc Natxo Galan Rovira, alumne de 1r de DAM i esta és la meua aportació al projecte");
 
 
 
